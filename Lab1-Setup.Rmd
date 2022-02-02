@@ -57,3 +57,22 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
     *   Let's add another one for good measure.
         *   Can we get another level of nesting?  **Yes, now it is dashes**
         
+        
+        
+        
+[What does this do?](https://google.com)
+        
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| --- | ---: | :---: | :--- |
+| Notice | what | the | colons |
+| are | doing? | | |
+
+Table: The table with poor spacing
+
+| Column 1 | Column 2 | Column 3 | Column 4 |
+| -------- | -------: | :------: | :------- |
+| Notice   | what     | the      | colons   |
+| are      | doing?   |          |          |
+
+Table: The table with good spacing

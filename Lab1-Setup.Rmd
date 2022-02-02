@@ -33,9 +33,15 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
 
 *What happens when you surround text with one-star pairs?*
 
+**Text becomes italicized**
+
 **What happens when you surround text with two-star pairs?**
 
+**Text becomes bold**
+
 ***What happens when you surround text with three-star pairs?***
+
+**Text becoms bold and italicized**
 
 1.  Start typing this list. Note there are two spaces between the period 
     and the word "Start".
@@ -62,11 +68,15 @@ Note that the `echo = FALSE` parameter was added to the code chunk to prevent pr
         
 [What does this do?](https://google.com)
         
+**Creates Hyperlink**
+**jpeg file was not found, talked to lab instructor about it**
 
 | Column 1 | Column 2 | Column 3 | Column 4 |
 | --- | ---: | :---: | :--- |
 | Notice | what | the | colons |
 | are | doing? | | |
+
+**The colons are defining uneven spaces for the columns**
 
 Table: The table with poor spacing
 
@@ -76,3 +86,17 @@ Table: The table with poor spacing
 | are      | doing?   |          |          |
 
 Table: The table with good spacing
+
+**The colons are defining even spaces for the columns**
+
+| Column 1 | Column 2 | Column 3 | Column 4 | Column 5 |
+| -------- | -------: | :------: | :------- | :------- |
+| Notice   | what     | the      | colons   | Copied
+| are      | doing?   |          |          | Table
+
+
+**qplot & print(mgp) did not run in rstudio but I used rOnline and it worked, I spoke to the lab instructor about this**
+
+**qplot created a scatterplot graph with points**
+**the print statement created a table with the same information**
+
